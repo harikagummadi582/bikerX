@@ -100,7 +100,7 @@ Update and manage your profile information:
 
 ## Support
 
-If you encounter any issues or have questions, reach out to our support team at [support@bikerx.com](mailto:support@bikerx.com).
+If you encounter any issues or have questions, reach out to our support team at [support@bikerx.com](mailto:harika20241a05e8@grietcollege.com).
 
 ## Contributing
 
