@@ -82,6 +82,11 @@ Update and manage your profile information:
 ![Profile Settings](screenshots/profile.png)
 
 ![Service Details](screenshots/service-details.png)
+![Service Details](screenshots/service-details1.png)
+![Service Details](screenshots/service-details2.png)
+![Service Details](screenshots/service-details3.png)
+![Service Details](screenshots/service-details4.png)
+![Service Details](screenshots/service-details5.png)
 
 ## Getting Started
 
