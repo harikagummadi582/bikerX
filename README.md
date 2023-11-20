@@ -77,7 +77,7 @@ Update and manage your profile information:
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ![Profile Settings](screenshots/profile.png)
 
