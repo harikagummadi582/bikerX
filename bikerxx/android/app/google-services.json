@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093256971649",
+    "project_id": "bikerx-d8556",
+    "storage_bucket": "bikerx-d8556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093256971649:android:cc68f1332a52be1e4f9480",
+        "android_client_info": {
+          "package_name": "com.example.bikerxx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEy5L9raag79ZAqeeLxPFEbehIBUd02U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
